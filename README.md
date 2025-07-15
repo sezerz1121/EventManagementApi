@@ -14,6 +14,19 @@
   <h2>Base URL</h2>
   <pre>https://event-management-api-five.vercel.app</pre>
 
+  <h2>Setup Instructions</h2>
+  <p>Follow these steps to run the project locally:</p>
+  <ol>
+    <li>Clone the repository</li>
+    <li>Install dependencies:</li>
+    <pre><code>npm install</code></pre>
+    <li>Create a file called <code>.env</code> in the root directory</li>
+    <li>Add the following line to your <code>.env</code> file:</li>
+    <pre><code>PG_URL=postgresql://event_manager_srly_user:stpxNXDckUtTb5N4llcdsOaDEVwRKxOL@dpg-d1r2bb3e5dus73e69jh0-a.singapore-postgres.render.com/event_manager_srly</code></pre>
+    <li>Start the server</li>
+    <pre><code>npm start</code></pre>
+  </ol>
+
   <h2>Endpoints</h2>
 
   <h3>1. Create Event</h3>
