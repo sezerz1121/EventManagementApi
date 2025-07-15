@@ -11,8 +11,9 @@
     <a href="https://www.postman.com/lively-desert-712000/my-workspace/documentation/9gjx7hs/event-api" target="_blank">EventManagementApi</a>
   </p>
 
-  <h2>Base URL</h2>
-  <pre>https://event-management-api-five.vercel.app</pre>
+<h2>Base URL</h2>
+<p>If you don't want to set it up on your PC, you can use this URL directly in Postman:</p>
+<pre>https://event-management-api-five.vercel.app</pre>
 
   <h2>Setup Instructions</h2>
   <p>Follow these steps to run the project locally:</p>
