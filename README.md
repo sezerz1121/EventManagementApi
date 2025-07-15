@@ -24,7 +24,7 @@
     <li>Add the following line to your <code>.env</code> file:</li>
     <pre><code>PG_URL=postgresql://event_manager_srly_user:stpxNXDckUtTb5N4llcdsOaDEVwRKxOL@dpg-d1r2bb3e5dus73e69jh0-a.singapore-postgres.render.com/event_manager_srly</code></pre>
     <li>Start the server</li>
-    <pre><code>npm start</code></pre>
+    <pre><code>npm run dev</code></pre>
   </ol>
 
   <h2>Endpoints</h2>
