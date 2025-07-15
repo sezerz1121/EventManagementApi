@@ -18,6 +18,7 @@
 
   <h3>1. Create Event</h3>
   <p><strong>POST /events/createEvent</strong></p>
+  <a>https://www.postman.com/lively-desert-712000/my-workspace/request/hdh8rfw/event-create</a>
   <p>Create a new event.</p>
   <table>
     <tr><th>Field</th><th>Type</th><th>Description</th></tr>
@@ -48,11 +49,13 @@
 
   <h3>2. Get Single Event</h3>
   <p><strong>GET /events/:id</strong></p>
+  <a>https://www.postman.com/lively-desert-712000/my-workspace/request/vgu9sk0/get-single-event</a>
   <p>Get details of a specific event by ID.</p>
   <pre>GET /events/13</pre>
 
   <h3>3. Register a User</h3>
   <p><strong>POST /user/createUser</strong></p>
+  <a>https://www.postman.com/lively-desert-712000/my-workspace/request/3278nbm/register-user</a>
   <p>Create a new user.</p>
   <table>
     <tr><th>Field</th><th>Type</th><th>Description</th></tr>
@@ -62,6 +65,7 @@
 
   <h3>4. Register a User for an Event</h3>
   <p><strong>POST /events/:id/register</strong></p>
+  <a>https://www.postman.com/lively-desert-712000/my-workspace/request/6lmnuin/register-a-user-for-the-event</a>
   <p>Register a user for a specific event.</p>
   <table>
     <tr><th>Field</th><th>Type</th><th>Description</th></tr>
@@ -75,10 +79,12 @@
 
   <h3>5. Get Upcoming Events</h3>
   <p><strong>GET /events/upcoming</strong></p>
+  <a>https://www.postman.com/lively-desert-712000/my-workspace/request/b8p1ohr/upcoming-events </a>
   <p>Get a list of all upcoming events.</p>
 
   <h3>6. Cancel Registration</h3>
   <p><strong>POST /events/:id/cancel</strong></p>
+  <a>https://www.postman.com/lively-desert-712000/my-workspace/request/np3hy12/cancel-registration-from-event</a>
   <p>Cancel a user’s registration.</p>
   <table>
     <tr><th>Field</th><th>Type</th><th>Description</th></tr>
@@ -88,6 +94,7 @@
 
   <h3>7. Get Event Stats</h3>
   <p><strong>GET /events/:id/stats</strong></p>
+  <a>https://www.postman.com/lively-desert-712000/my-workspace/request/wvqswxa/event-stats</a>
   <p>Get number of users registered and available capacity.</p>
 
   <h2>Made By</h2>
