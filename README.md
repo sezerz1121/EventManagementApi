@@ -1,41 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Event Management API</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      max-width: 800px;
-      margin: auto;
-      padding: 20px;
-      background: #f9f9f9;
-      color: #333;
-    }
-    h1, h2, h3 {
-      color: #222;
-    }
-    code, pre {
-      background: #eee;
-      padding: 8px;
-      display: block;
-      overflow-x: auto;
-    }
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      margin-bottom: 20px;
-    }
-    th, td {
-      padding: 8px;
-      border: 1px solid #ccc;
-    }
-    a {
-      color: #0066cc;
-    }
-  </style>
-</head>
+
 <body>
 
   <h1>Event Management API</h1>
